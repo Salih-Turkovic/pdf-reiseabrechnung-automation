@@ -36,5 +36,4 @@ python rename_pdfs.py \
 - pathlib, shutil, csv, re — standard libraries
 
 ## Note
-File names and paths are anonymized. No original documents included.[requirements.txt.rtf](https://github.com/user-attachments/files/28628025/requirements.txt.rtf)
-[umbenennen.py](https://github.com/user-attachments/files/28627611/umbenennen.py)
+File names and paths are anonymized. No original documents included.
